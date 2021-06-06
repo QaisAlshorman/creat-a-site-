@@ -3,13 +3,9 @@
   padding : 0 ;
   box-sizing: border-box ;
 } 
-body{
-  display: block;
-  margin:8px;
-  border :2px;
-  padding:1px;
 
-}
+
+
 h1 {
   background-color :gray ;
   color :#fff;
@@ -20,15 +16,6 @@ h1 {
  border : 10px ;
 
 }
-nav p {
-   background-color: lightblue;
-  color:gray;
-  padding-block-end: 5px;
-  
-  
-  text-align: center;
-  font-size :35px;
-  }
 nav li {
    background-color: lightblue;
   font: black;
